@@ -1,1 +1,3 @@
-# Shop-Node-JS
+# Shop Node JS
+
+Working with Node
